@@ -1,2 +1,4 @@
 # hello-world
-first repository
+First repository
+
+Love to learn
